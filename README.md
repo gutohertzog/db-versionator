@@ -91,7 +91,7 @@ python -m db-versionator.main
 ```
 
 ### 4. Pasta sql
-A pasta `sql` é onde serão salvos os scrips de cada objeto do banco de dados conectado.
+A pasta [`sql`](sql/) é onde serão salvos os scrips de cada objeto do banco de dados conectado.
 No presente repositório, há um versionamento do banco de dados [`AdventureWorks2022`](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks) como modelo de resultado após execução do `db-versionator`.
 Esse banco de dados é fornecido pela Microsoft como modelo para testar o SQL Server.
 

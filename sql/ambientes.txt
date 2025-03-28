@@ -1,0 +1,1 @@
+Nesta pasta serão criadas as pastas de cada ambiente conectado.

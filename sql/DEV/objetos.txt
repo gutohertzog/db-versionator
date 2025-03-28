@@ -1,0 +1,17 @@
+Dados coletados em 28/03/2025
+
+---- AdventureWorks2022 ----
+71 tables, 20 views, 11 functions, 10 procedures, 10 triggers, 44 indices, 10 grupos
+
+---- master ----
+5 tables, 1 views, 0 functions, 2 procedures, 0 triggers, 0 indices, 10 grupos
+
+---- msdb ----
+146 tables, 79 views, 62 functions, 475 procedures, 38 triggers, 43 indices, 27 grupos
+
+
+---- TOTAL ----
+222 tables, 100 views, 73 functions, 487 procedures, 48 triggers, 87 indices, 47 grupos
+
+
+Tempo total : 3.10 segundos

@@ -1,0 +1,5 @@
+2025-03-28 17:28:31,994 - INFO - Conexão estabelecida com sucesso
+2025-03-28 17:28:32,845 - INFO - Índice atualizado com sucesso: C:\Users\augusto.hertzog\GitHub\db-versionator\sql\DEV\AdventureWorks2022\AdventureWorks2022_indice.txt
+2025-03-28 17:28:33,485 - INFO - Índice atualizado com sucesso: C:\Users\augusto.hertzog\GitHub\db-versionator\sql\DEV\master\master_indice.txt
+2025-03-28 17:28:34,989 - INFO - Índice atualizado com sucesso: C:\Users\augusto.hertzog\GitHub\db-versionator\sql\DEV\msdb\msdb_indice.txt
+2025-03-28 17:28:34,990 - INFO - Conexão fechada
